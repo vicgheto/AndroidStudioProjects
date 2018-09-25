@@ -1,13 +1,15 @@
-[  
-  
-   {  
-      "titulo":"Nuevo Contenido Agregado",
-      "descripcion":"Peliculas en audio Latino",
-      "footer":"23-09-2018"
-   },
-   {  
-      "titulo":"Nuevo Contenido Agregado",
-      "descripcion":"Peliculas en audio Latino",
-      "footer":"23-09-2018"
-   }
-]
+{ "Version": [
+    
+    { "version": "1.1",
+       "error": "01"
+        }
+    
+    ],
+    "Controle": [
+        
+    { "version": "1.1",
+       "error": "01"
+        }
+      ]
+      
+}
